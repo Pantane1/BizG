@@ -1,4 +1,4 @@
-![Screenshot](Screenshot(81).png)
+![Screenshot](Screenshot (81).png)
 
 # Run and deploy your AI Studio app
 
