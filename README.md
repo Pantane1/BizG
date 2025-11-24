@@ -1,4 +1,4 @@
-![Screenshot (81).png](https://github.com/Pantane1/BizG/blob/main/Screenshot%20(81).png))
+![Screenshot (81).png](https://github.com/Pantane1/BizG/blob/main/Screenshot%20(81).png)
 
 # Run and deploy your AI Studio app
 
